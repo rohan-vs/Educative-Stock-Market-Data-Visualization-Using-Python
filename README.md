@@ -1,4 +1,4 @@
-# Educative-Stock-Market-Data-Visualization-Using-Python
+# Educative Stock Market Data Visualization Using Python Problem
 ## Project Description
 Stock markets are constantly changing. It is difficult to predict the stock market’s fluctuations because of the many factors at play. Similarly, it is difficult to create models to consider such variability. However, due to recent advances in machine learning and computing, machines can now process large amounts of data. This enables us to use stock exchange data from the past to analyze trends and predict future changes.
 
